@@ -124,4 +124,4 @@ Material:
       second: {r: 0, g: 0, b: 0, a: 1}
     - first:
         name: _TintColor
-      second: {r: 0.327003, g: 0.29227942, b: 0.75, a: 1}
+      second: {r: 0.29227942, g: 0.75, b: 0.35225666, a: 1}
